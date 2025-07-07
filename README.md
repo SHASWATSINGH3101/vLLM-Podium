@@ -3,6 +3,9 @@
 
 A self-contained setup for hosting a vLLM inference server on Kaggle, exposing it via ngrok, and connecting to it locally for experimentation.
 
+<img src='https://github.com/aki-008/vLLM-Podium/blob/main/image/9d1c6b7c-eba8-43b4-8b39-d14af793cef9.jpeg' alt="vllm-podium" width="350">
+
+
 ## 📁 Repository Structure
 
 ```
