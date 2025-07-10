@@ -1,5 +1,5 @@
 
-# vLLM-Podium 🚀
+# vLLM-kaggle 🚀
 
 A self-contained setup for hosting a vLLM inference server on Kaggle, exposing it via ngrok, and connecting to it locally for experimentation.
 
